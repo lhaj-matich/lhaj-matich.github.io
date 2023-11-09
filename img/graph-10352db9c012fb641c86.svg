@@ -1,0 +1,176 @@
+<svg version="1.1" style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif; font-size: 12px;" xmlns="http://www.w3.org/2000/svg" width="516" height="368">
+    <desc>Created with Highcharts 4.2.4</desc>
+    <defs>
+        <clipPath id="highcharts-1"><rect x="0" y="0" width="496" height="343"></rect></clipPath>
+    </defs>
+    <rect x="0" y="0" width="516" height="368" fill="rgba(255, 255, 255, 0)" class="highcharts-background"></rect>
+    <g class="highcharts-grid">
+        <path fill="none" d="M 258 181.5 L 297.7473109014776 59.17035559153588" stroke="#ddd" stroke-width="1" opacity="1"></path>
+        <path fill="none" d="M 258 181.5 L 333.6038780761194 77.44018909852238" stroke="#ddd" stroke-width="1" opacity="1"></path>
+        <path fill="none" d="M 258 181.5 L 362.0598109014776 105.89612192388064" stroke="#ddd" stroke-width="1" opacity="1"></path>
+        <path fill="none" d="M 258 181.5 L 380.3296444084641 141.75268909852238" stroke="#ddd" stroke-width="1" opacity="1"></path>
+        <path fill="none" d="M 258 181.5 L 386.625 181.5" stroke="#ddd" stroke-width="1" opacity="1"></path>
+        <path fill="none" d="M 258 181.5 L 380.3296444084641 221.24731090147762" stroke="#ddd" stroke-width="1" opacity="1"></path>
+        <path fill="none" d="M 258 181.5 L 362.0598109014776 257.1038780761194" stroke="#ddd" stroke-width="1" opacity="1"></path>
+        <path fill="none" d="M 258 181.5 L 333.6038780761194 285.5598109014776" stroke="#ddd" stroke-width="1" opacity="1"></path>
+        <path fill="none" d="M 258 181.5 L 297.7473109014776 303.8296444084641" stroke="#ddd" stroke-width="1" opacity="1"></path>
+        <path fill="none" d="M 258 181.5 L 258 310.125" stroke="#ddd" stroke-width="1" opacity="1"></path>
+        <path fill="none" d="M 258 181.5 L 218.2526890985224 303.8296444084641" stroke="#ddd" stroke-width="1" opacity="1"></path>
+        <path fill="none" d="M 258 181.5 L 182.39612192388066 285.5598109014776" stroke="#ddd" stroke-width="1" opacity="1"></path>
+        <path fill="none" d="M 258 181.5 L 153.9401890985224 257.1038780761194" stroke="#ddd" stroke-width="1" opacity="1"></path>
+        <path fill="none" d="M 258 181.5 L 135.6703555915359 221.24731090147762" stroke="#ddd" stroke-width="1" opacity="1"></path>
+        <path fill="none" d="M 258 181.5 L 129.375 181.50000000000003" stroke="#ddd" stroke-width="1" opacity="1"></path>
+        <path fill="none" d="M 258 181.5 L 135.67035559153587 141.7526890985224" stroke="#ddd" stroke-width="1" opacity="1"></path>
+        <path fill="none" d="M 258 181.5 L 153.94018909852235 105.89612192388066" stroke="#ddd" stroke-width="1" opacity="1"></path>
+        <path fill="none" d="M 258 181.5 L 182.39612192388063 77.4401890985224" stroke="#ddd" stroke-width="1" opacity="1"></path>
+        <path fill="none" d="M 258 181.5 L 218.25268909852235 59.17035559153588" stroke="#ddd" stroke-width="1" opacity="1"></path>
+        <path fill="none" d="M 258 181.5 L 258 52.875" stroke="#ddd" stroke-width="1" opacity="1"></path>
+        <path fill="none" d="M 258 181.5 L 297.7473109014776 59.170355591535866" stroke="#ddd" stroke-width="1" opacity="1"></path>
+        <path fill="none" d="M 258 181.5 L 258 52.875" stroke="#ddd" stroke-width="1" opacity="1"></path>
+    </g>
+    <g class="highcharts-grid">
+        <path fill="none" stroke="#ddd" stroke-width="1"></path>
+        <path fill="none" d="M 258 149.34375 A 32.15625 32.15625 0 1 1 257.96784375535935 149.34376607812365 M 258 181.5 A 0 0 0 1 0 258 181.5 " stroke="#ddd" stroke-width="1" opacity="1"></path>
+        <path fill="none" d="M 258 117.1875 A 64.3125 64.3125 0 1 1 257.9356875107187 117.18753215624731 M 258 181.5 A 0 0 0 1 0 258 181.5 " stroke="#ddd" stroke-width="1" opacity="1"></path>
+        <path fill="none" d="M 258 85.03125 A 96.46875 96.46875 0 1 1 257.90353126607806 85.03129823437098 M 258 181.5 A 0 0 0 1 0 258 181.5 " stroke="#ddd" stroke-width="1" opacity="1"></path>
+        <path fill="none" d="M 258 52.875 A 128.625 128.625 0 1 1 257.8713750214374 52.87506431249463 M 258 181.5 A 0 0 0 1 0 258 181.5 " stroke="#ddd" stroke-width="1" opacity="1"></path>
+    </g>
+    <g class="highcharts-axis"><path fill="none" d="M 258 52.875 A 128.625 128.625 0 1 1 257.8713750214374 52.87506431249463 M 258 181.5 A 0 0 0 1 0 258 181.5 " stroke="#C0D0E0" stroke-width="1"></path></g>
+    <g class="highcharts-axis"></g>
+    <g class="highcharts-series-group">
+        <path fill="#00BABC" fill-opacity="0.25" d="M 0 0"></path>
+        <g class="highcharts-series highcharts-series-0" transform="translate(10,10) scale(1 1)" clip-path="url(#highcharts-1)">
+            <path
+                fill="#00BABC"
+                d="M 248 171.5 L 260.02927277397384 147.89122288021187 L 248 171.5 L 248 171.5 L 248 171.5 L 248 171.5 L 266.9672456957521 181.16429438879936 L 265.5536606779131 189.0536606779131 L 262.4526456871773 199.8649142579979 L 256.3604346638398 224.28570702216012 L 242.1346168363194 208.53257183383798 L 248 171.5 L 248 171.5 L 199.00605719073093 196.46366073239716 L 248 171.5 L 248 171.5 L 248 171.5 L 248 171.5 L 234.89042845748966 145.77101716799788 L 241.6818857173389 131.60899637795842 L 248 171.5 L 248 171.5 L 248 171.5 L 248 171.5 L 248 171.5 L 248 171.5 L 248 171.5 L 248 171.5 L 248 171.5 L 248 171.5 L 248 171.5 L 248 171.5 L 248 171.5 L 248 171.5 L 248 171.5 L 248 171.5 L 248 171.5 L 248 171.5 L 248 171.5 L 248 171.5 L 248 171.5 L 248 171.5"
+                fill-opacity="0.75"
+            ></path>
+            <path
+                fill="none"
+                d="M 248 171.5 L 260.02927277397384 147.89122288021187 L 248 171.5 L 248 171.5 L 248 171.5 L 248 171.5 L 266.9672456957521 181.16429438879936 L 265.5536606779131 189.0536606779131 L 262.4526456871773 199.8649142579979 L 256.3604346638398 224.28570702216012 L 242.1346168363194 208.53257183383798 L 248 171.5 L 248 171.5 L 199.00605719073093 196.46366073239716 L 248 171.5 L 248 171.5 L 248 171.5 L 248 171.5 L 234.89042845748966 145.77101716799788 L 241.6818857173389 131.60899637795842 L 248 171.5 L 248 171.5"
+                stroke="#00BABC"
+                stroke-width="2"
+                stroke-linejoin="round"
+                stroke-linecap="round"
+            ></path>
+            <path
+                fill="none"
+                d="M 238 171.5 L 248 171.5 L 260.02927277397384 147.89122288021187 L 248 171.5 L 248 171.5 L 248 171.5 L 248 171.5 L 266.9672456957521 181.16429438879936 L 265.5536606779131 189.0536606779131 L 262.4526456871773 199.8649142579979 L 256.3604346638398 224.28570702216012 L 242.1346168363194 208.53257183383798 L 248 171.5 L 248 171.5 L 199.00605719073093 196.46366073239716 L 248 171.5 L 248 171.5 L 248 171.5 L 248 171.5 L 234.89042845748966 145.77101716799788 L 241.6818857173389 131.60899637795842 L 248 171.5 L 248 171.5 L 258 171.5"
+                stroke-linejoin="round"
+                visibility="visible"
+                stroke="rgba(192,192,192,0.0001)"
+                stroke-width="22"
+                class="highcharts-tracker"
+                style=""
+            ></path>
+        </g>
+        <g class="highcharts-markers highcharts-series-0 highcharts-tracker" transform="translate(10,10) scale(1 1)" style="" clip-path="none">
+            <path
+                fill="#00BABC"
+                d="M 199 190.46366073239716 C 206.992 190.46366073239716 206.992 202.46366073239716 199 202.46366073239716 C 191.008 202.46366073239716 191.008 190.46366073239716 199 190.46366073239716 Z"
+                stroke="#FFFFFF"
+                stroke-width="1"
+                visibility="hidden"
+            ></path>
+        </g>
+    </g>
+    <g class="highcharts-axis-labels highcharts-xaxis-labels">
+        <text x="282.0322446918055" style="color: #333; cursor: default; font-size: 11px; width: 14px; min-width: 50px; fill: #fff; text-overflow: clip;" transform="translate(0,0)" text-anchor="middle" y="23.26637867607195" opacity="1">
+            <tspan>Adaptation</tspan>
+            <tspan dy="11" x="282.0322446918055">&amp;</tspan>
+            <tspan dy="11" x="282.0322446918055">creativity</tspan>
+            <title>Adaptation &amp; creativity</title>
+        </text>
+        <text x="327.74429052248786" style="color: #333; cursor: default; font-size: 11px; width: 14px; min-width: 50px; fill: #fff; text-overflow: clip;" transform="translate(0,0)" text-anchor="start" y="43.61912272156201" opacity="1">
+            <tspan>Algorithms</tspan>
+            <tspan dy="11" x="327.74429052248786">&amp; AI</tspan>
+            <title>Algorithms &amp; AI</title>
+        </text>
+        <text x="366.6292792597834" style="color: #333; cursor: default; font-size: 11px; width: 14px; min-width: 50px; fill: #fff; text-overflow: clip;" transform="translate(0,0)" text-anchor="start" y="77.37072074021664" opacity="1">
+            Basics
+        </text>
+        <text x="394.880877278438" style="color: #333; cursor: default; font-size: 11px; width: 14px; min-width: 50px; fill: #fff; text-overflow: clip;" transform="translate(0,0)" text-anchor="start" y="110.75570947751213" opacity="1">
+            <tspan>Company</tspan>
+            <tspan dy="11" x="394.880877278438">experience</tspan>
+            <title>Company experience</title>
+        </text>
+        <text x="409.73362132392805" style="color: #333; cursor: default; font-size: 11px; width: 14px; min-width: 50px; fill: #fff; text-overflow: clip;" transform="translate(0,0)" text-anchor="start" y="150.96775530819454" opacity="1">
+            <tspan>DB</tspan>
+            <tspan dy="11" x="409.73362132392805">&amp;</tspan>
+            <tspan dy="11" x="409.73362132392805">Data</tspan>
+            <title>DB &amp; Data</title>
+        </text>
+        <text x="409.73362132392805" style="color: #333; cursor: default; font-size: 11px; width: 14px; min-width: 50px; fill: #fff; text-overflow: clip;" transform="translate(0,0)" text-anchor="start" y="204.53224469180546" opacity="1">
+            <tspan>Functional</tspan>
+            <tspan dy="11" x="409.73362132392805">programming</tspan>
+            <title>Functional programming</title>
+        </text>
+        <text x="394.880877278438" style="color: #333; cursor: default; font-size: 11px; width: 14px; min-width: 50px; fill: #fff; text-overflow: clip;" transform="translate(0,0)" text-anchor="start" y="255.74429052248786" opacity="1">
+            Graphics
+        </text>
+        <text x="366.6292792597834" style="color: #333; cursor: default; font-size: 11px; width: 14px; min-width: 50px; fill: #fff; text-overflow: clip;" transform="translate(0,0)" text-anchor="start" y="283.62927925978335" opacity="1">
+            <tspan>Group</tspan>
+            <tspan dy="11" x="366.6292792597834">&amp;</tspan>
+            <tspan dy="11" x="366.6292792597834">interpersonal</tspan>
+            <title>Group &amp; interpersonal</title>
+        </text>
+        <text x="327.74429052248786" style="color: #333; cursor: default; font-size: 11px; width: 14px; min-width: 50px; fill: #fff; text-overflow: clip;" transform="translate(0,0)" text-anchor="start" y="317.380877278438" opacity="1">
+            <tspan>Imperative</tspan>
+            <tspan dy="11" x="327.74429052248786">programming</tspan>
+            <title>Imperative programming</title>
+        </text>
+        <text x="282.0322446918055" style="color: #333; cursor: default; font-size: 11px; width: 14px; min-width: 50px; fill: #fff; text-overflow: clip;" transform="translate(0,0)" text-anchor="start" y="321.23362132392805" opacity="1">
+            <tspan>Network</tspan>
+            <tspan dy="11" x="282.0322446918055">&amp;</tspan>
+            <tspan dy="11" x="282.0322446918055">system</tspan>
+            <tspan dy="11" x="282.0322446918055">administration</tspan>
+            <title>Network &amp; system administration</title>
+        </text>
+        <text x="233.96775530819454" style="color: #333; cursor: default; font-size: 11px; width: 14px; min-width: 50px; fill: #fff; text-overflow: clip;" transform="translate(0,0)" text-anchor="end" y="326.73362132392805" opacity="1">
+            <tspan>Object-</tspan>
+            <tspan dy="11" x="233.96775530819454">oriented</tspan>
+            <tspan dy="11" x="233.96775530819454">programming</tspan>
+            <title>Object-oriented programming</title>
+        </text>
+        <text x="188.25570947751214" style="color: #333; cursor: default; font-size: 11px; width: 14px; min-width: 50px; fill: #fff; text-overflow: clip;" transform="translate(0,0)" text-anchor="end" y="322.880877278438" opacity="1">
+            Organization
+        </text>
+        <text x="149.37072074021665" style="color: #333; cursor: default; font-size: 11px; width: 14px; min-width: 50px; fill: #fff; text-overflow: clip;" transform="translate(0,0)" text-anchor="end" y="289.1292792597834" opacity="1">
+            <tspan>Parallel</tspan>
+            <tspan dy="11" x="149.37072074021665">computing</tspan>
+            <title>Parallel computing</title>
+        </text>
+        <text x="121.11912272156201" style="color: #333; cursor: default; font-size: 11px; width: 14px; min-width: 50px; fill: #fff; text-overflow: clip;" transform="translate(0,0)" text-anchor="end" y="255.7442905224879" opacity="1">
+            Rigor
+        </text>
+        <text x="106.26637867607198" style="color: #333; cursor: default; font-size: 11px; width: 14px; min-width: 50px; fill: #fff; text-overflow: clip;" transform="translate(0,0)" text-anchor="end" y="210.0322446918055" opacity="1">
+            Ruby
+        </text>
+        <text x="106.26637867607195" style="color: #333; cursor: default; font-size: 11px; width: 14px; min-width: 50px; fill: #fff; text-overflow: clip;" transform="translate(0,0)" text-anchor="end" y="161.96775530819457" opacity="1">
+            Security
+        </text>
+        <text x="121.11912272156198" style="color: #333; cursor: default; font-size: 11px; width: 14px; min-width: 50px; fill: #fff; text-overflow: clip;" transform="translate(0,0)" text-anchor="end" y="116.25570947751214" opacity="1">
+            Shell
+        </text>
+        <text x="149.3707207402166" style="color: #333; cursor: default; font-size: 11px; width: 14px; min-width: 50px; fill: #fff; text-overflow: clip;" transform="translate(0,0)" text-anchor="end" y="71.87072074021664" opacity="1">
+            <tspan>Technology</tspan>
+            <tspan dy="11" x="149.3707207402166">integration</tspan>
+            <title>Technology integration</title>
+        </text>
+        <text x="188.25570947751208" style="color: #333; cursor: default; font-size: 11px; width: 14px; min-width: 50px; fill: #fff; text-overflow: clip;" transform="translate(0,0)" text-anchor="end" y="49.11912272156201" opacity="1">
+            Unix
+        </text>
+        <text x="233.9677553081945" style="color: #333; cursor: default; font-size: 11px; width: 14px; min-width: 50px; fill: #fff; text-overflow: clip;" transform="translate(0,0)" text-anchor="middle" y="34.26637867607198" opacity="1">
+            Web
+        </text>
+        <text x="0" style="color: #333; cursor: default; font-size: 11px; width: 14px; min-width: 50px; fill: #fff; text-overflow: clip;" transform="translate(0,0)" text-anchor="middle" y="-9999">20</text>
+    </g>
+    <g class="highcharts-axis-labels highcharts-yaxis-labels"></g>
+    <g class="highcharts-tooltip" style="cursor: default; padding: 0; pointer-events: none; white-space: nowrap;" transform="translate(170,-9999)" opacity="0" visibility="visible">
+        <path fill="#333" d="M 2 0 L 76 0 C 78 0 78 0 78 2 L 78 28 C 78 30 78 30 76 30 L 45 30 39 36 33 30 2 30 C 0 30 0 30 0 28 L 0 2 C 0 0 0 0 2 0"></path>
+        <text x="8" style="font-size: 12px; color: #fff; fill: #fff;" y="20">
+            <tspan style="font-weight: bold;">Rigor</tspan>
+            <tspan dx="0">: 8.55</tspan>
+        </text>
+    </g>
+</svg>
